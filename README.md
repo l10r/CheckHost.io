@@ -1,5 +1,5 @@
 # CheckHost.io
-Website tool for network connectivity/uptime monitoring
+Network connectivity/uptime monitoring website tool
 
 
 # Work in Progress
