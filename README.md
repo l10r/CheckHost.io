@@ -1,4 +1,4 @@
-# CheckHost.io
+# Checkhost.io
 Network connectivity/uptime monitoring website tool
 
 
